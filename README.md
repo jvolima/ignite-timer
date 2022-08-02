@@ -7,3 +7,5 @@
 - Styled components
 - Eslint
 - React Router DOM
+- React Hook Form
+- Zod
