@@ -9,3 +9,7 @@
 - React Router DOM
 - React Hook Form
 - Zod
+
+## Aprendizados novos
+- useReducer
+- React Router DOM
