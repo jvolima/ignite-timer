@@ -1,4 +1,4 @@
-# Ignite Timer
+# Ignite Timer (Aplicação para produtividade)
 
 ## Funcionalidades da aplicação
 - Iniciar um novo ciclo
